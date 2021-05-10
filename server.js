@@ -20,7 +20,7 @@ const hbs = exphbs.create({ helpers });
 
 //defines what sessions will be
 const sess = {
-  secret: 'CanYouKeepASecrete',
+  secret: 'Can You Keep A Secrete',
   cookies: {},
   resave: false,
   saveUninitialized: true,
